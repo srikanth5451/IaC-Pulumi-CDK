@@ -8,3 +8,5 @@ export function createS3Bucket(name: string) {
 }
 
 # 2021-12-06 - feat: Implement S3 storage module
+
+# 2021-08-09 - refactor: Cleanup old resources
