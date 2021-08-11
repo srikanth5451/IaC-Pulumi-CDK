@@ -17,3 +17,5 @@ description: Infrastructure as Code with Pulumi
 # 2021-12-03 - fix: Patch security group rules
 
 # 2021-08-20 - feat: Add VPC configuration
+
+# 2021-08-11 - ci: Configure CI environment
