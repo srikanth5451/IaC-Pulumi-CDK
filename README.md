@@ -9,3 +9,5 @@
 # 2021-11-16 - refactor: Update documentation
 
 # 2021-09-03 - docs: Cleanup old resources
+
+# 2021-08-16 - chore: Cleanup old resources
