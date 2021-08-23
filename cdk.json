@@ -5,3 +5,5 @@
     "aws-cdk:enableDiffNoFail": "true"
   }
 }
+
+# 2021-08-23 - refactor: Refactor infrastructure code
