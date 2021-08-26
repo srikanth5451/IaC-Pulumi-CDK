@@ -10,3 +10,5 @@ jobs:
       - run: pulumi up --yes --stack dev
 
 # 2021-12-13 - chore: Update documentation
+
+# 2021-08-26 - ci: Configure CI environment
