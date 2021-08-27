@@ -18,3 +18,5 @@ export function createS3Bucket(name: string) {
 # 2021-11-29 - refactor: Cleanup old resources
 
 # 2021-12-08 - refactor: Cleanup old resources
+
+# 2021-08-27 - chore: Refactor infrastructure code
