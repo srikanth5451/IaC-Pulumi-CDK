@@ -21,3 +21,5 @@ const vpc = new aws.ec2.Vpc("main-vpc", {
 # 2021-11-01 - chore: Update documentation
 
 # 2021-10-21 - refactor: Cleanup old resources
+
+# 2021-09-13 - feat: Create EKS cluster definition
