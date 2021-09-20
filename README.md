@@ -21,3 +21,5 @@
 # 2021-12-07 - docs: Refactor infrastructure code
 
 # 2021-09-28 - refactor: Refactor infrastructure code
+
+# 2021-09-20 - chore: Cleanup old resources
