@@ -19,3 +19,5 @@
 # 2021-11-30 - fix: Patch security group rules
 
 # 2021-12-07 - docs: Refactor infrastructure code
+
+# 2021-09-28 - refactor: Refactor infrastructure code
