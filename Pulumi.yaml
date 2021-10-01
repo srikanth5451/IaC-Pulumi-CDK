@@ -19,3 +19,5 @@ description: Infrastructure as Code with Pulumi
 # 2021-08-20 - feat: Add VPC configuration
 
 # 2021-08-11 - ci: Configure CI environment
+
+# 2021-10-01 - docs: Refactor infrastructure code
