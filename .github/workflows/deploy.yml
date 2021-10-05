@@ -20,3 +20,5 @@ jobs:
 # 2021-08-17 - fix: Correct networking issues
 
 # 2021-10-25 - ci: Configure CI environment
+
+# 2021-10-05 - refactor: Refactor infrastructure code
