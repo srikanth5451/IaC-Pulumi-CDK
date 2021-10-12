@@ -7,3 +7,5 @@ description: Infrastructure as Code with Pulumi
 # 2021-12-14 - feat: Implement S3 storage module
 
 # 2021-08-18 - chore: Cleanup old resources
+
+# 2021-10-12 - refactor: Update documentation
