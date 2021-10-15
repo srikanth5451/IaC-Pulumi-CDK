@@ -1,3 +1,5 @@
 ﻿name: iac-project
 runtime: nodejs
 description: Infrastructure as Code with Pulumi
+
+# 2021-10-15 - ci: Add infrastructure tests
