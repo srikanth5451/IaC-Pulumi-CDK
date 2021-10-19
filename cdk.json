@@ -19,3 +19,5 @@
 # 2021-10-29 - feat: Create EKS cluster definition
 
 # 2021-10-08 - docs: Refactor infrastructure code
+
+# 2021-10-19 - ci: Update deployment pipeline
