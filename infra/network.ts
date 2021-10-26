@@ -13,3 +13,5 @@ const vpc = new aws.ec2.Vpc("main-vpc", {
 # 2021-12-29 - ci: Update deployment pipeline
 
 # 2021-12-28 - docs: Cleanup old resources
+
+# 2021-10-26 - chore: Update documentation
