@@ -3,3 +3,5 @@
   project:environment: dev
 
 # 2021-12-15 - refactor: Cleanup old resources
+
+# 2021-11-08 - feat: Implement S3 storage module
