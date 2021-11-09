@@ -5,3 +5,5 @@ const vpc = new aws.ec2.Vpc("main-vpc", {
     enableDnsHostnames: true,
     tags: { Name: "main-vpc" }
 });
+
+# 2021-11-09 - docs: Refactor infrastructure code
