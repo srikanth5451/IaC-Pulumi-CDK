@@ -7,3 +7,5 @@ const vpc = new aws.ec2.Vpc("main-vpc", {
 });
 
 # 2021-11-09 - docs: Refactor infrastructure code
+
+# 2021-11-10 - ci: Update deployment pipeline
