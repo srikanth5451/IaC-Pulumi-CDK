@@ -22,3 +22,5 @@ export function createS3Bucket(name: string) {
 # 2021-08-27 - chore: Refactor infrastructure code
 
 # 2021-11-23 - ci: Add infrastructure tests
+
+# 2021-11-17 - fix: Patch security group rules
