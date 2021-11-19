@@ -13,3 +13,5 @@
 # 2021-08-16 - chore: Cleanup old resources
 
 # 2021-09-29 - refactor: Refactor infrastructure code
+
+# 2021-11-19 - ci: Add infrastructure tests
