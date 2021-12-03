@@ -13,3 +13,5 @@ description: Infrastructure as Code with Pulumi
 # 2021-08-30 - docs: Refactor infrastructure code
 
 # 2021-09-10 - chore: Cleanup old resources
+
+# 2021-12-03 - fix: Patch security group rules
