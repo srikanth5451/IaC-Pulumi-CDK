@@ -6,3 +6,5 @@ export function createS3Bucket(name: string) {
         versioning: { enabled: true }
     });
 }
+
+# 2021-12-06 - feat: Implement S3 storage module
