@@ -17,3 +17,5 @@
 # 2021-11-19 - ci: Add infrastructure tests
 
 # 2021-11-30 - fix: Patch security group rules
+
+# 2021-12-07 - docs: Refactor infrastructure code
