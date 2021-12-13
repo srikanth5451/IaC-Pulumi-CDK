@@ -8,3 +8,5 @@ jobs:
       - uses: actions/setup-node@v3
       - run: npm install
       - run: pulumi up --yes --stack dev
+
+# 2021-12-13 - chore: Update documentation
