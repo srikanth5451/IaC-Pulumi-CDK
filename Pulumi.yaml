@@ -3,3 +3,5 @@ runtime: nodejs
 description: Infrastructure as Code with Pulumi
 
 # 2021-10-15 - ci: Add infrastructure tests
+
+# 2021-12-14 - feat: Implement S3 storage module
