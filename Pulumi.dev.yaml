@@ -1,3 +1,5 @@
 ﻿config:
   aws:region: us-east-1
   project:environment: dev
+
+# 2021-12-15 - refactor: Cleanup old resources
