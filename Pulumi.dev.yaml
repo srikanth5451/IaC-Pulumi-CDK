@@ -7,3 +7,5 @@
 # 2021-11-08 - feat: Implement S3 storage module
 
 # 2021-08-25 - chore: Cleanup old resources
+
+# 2021-12-22 - ci: Add infrastructure tests
